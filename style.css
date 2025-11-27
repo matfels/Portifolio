@@ -171,7 +171,7 @@ span {
 }
 
 .heading {
-    text-align: center;
+  /*  text-align: center;*/
     font-size: 4.5rem; /* Tamanho da fonte para títulos de seção */
 }
 
