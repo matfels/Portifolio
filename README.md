@@ -13,18 +13,8 @@
 
 ## 📖 Sobre o Projeto
 
-Este é o portfólio pessoal e profissional de **Matheus Melo**, uma página construída com o objetivo de demonstrar habilidades técnicas em desenvolvimento Front-End e apresentar uma visão sobre a jornada de aprendizado em tecnologias Back-End e Mobile.
+Este é meu portfólio pessoal e profissional, uma página construída com o objetivo de demonstrar habilidades técnicas em desenvolvimento Front-End e apresentar uma visão sobre a jornada de aprendizado em tecnologias Back-End e Mobile.
 
-O projeto é uma página única (Single Page Application - SPA) que inclui seções dedicadas à apresentação pessoal (`Início`), informações detalhadas sobre a experiência e conjunto de habilidades (`Sobre mim`), os serviços oferecidos e projetos desenvolvidos (`Portfólio`), além de um formulário de contato.
-
-### ✨ Principais Funcionalidades
-
-Baseado nas seções de serviço e estrutura do site:
-
-* **Efeito de Digitação Dinâmico:** Apresentação de cargos com efeito de digitação suave (Dev Back-End, Dev Front-End, Full-Stack).
-* **Design Responsivo:** Layouts que se adaptam perfeitamente a diferentes tamanhos de tela (desktop, tablet, celular).
-* **Navegação Suave e Fixo:** Menu de navegação que se destaca ao rolar (`sticky header`) e marca a seção ativa.
-* **Serviços de Desenvolvimento:** Descrição de ofertas como Criação de Sites, Manutenção e Otimização para Responsividade.
 
 ### 🛠️ Tecnologias Utilizadas
 
@@ -88,11 +78,6 @@ Contribuições, issues e sugestões são bem-vindas! Sinta-se à vontade para b
 
 ---
 
-## 📝 Licença
-
-Distribuído sob a licença **MIT License**. Veja `LICENSE` para mais informações.
-
----
 
 ## 📧 Contato
 
@@ -103,4 +88,4 @@ Distribuído sob a licença **MIT License**. Veja `LICENSE` para mais informaç�
 * Instagram: [matfels_](https://www.instagram.com/matfels_/)
 * E-mail: (A ser adicionado na seção de contato)
 
-Link do Projeto: `[https://seu-usuario.github.io/seu-repo-name/](https://seu-usuario.github.io/seu-repo-name/)` (Substitua pelo link de hospedagem)
+Link do Projeto: https://matfels.github.io/Portifolio/ 
