@@ -354,5 +354,5 @@ span {
   box-sizing: border-box;
   justify-content: center;
 }
-.contato {
+.contato {    
     background: var(--second-bg-color); /* Cor de fundo */}
