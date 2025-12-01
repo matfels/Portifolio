@@ -88,4 +88,4 @@ Contribuições, issues e sugestões são bem-vindas! Sinta-se à vontade para b
 * Instagram: [matfels_](https://www.instagram.com/matfels_/)
 * E-mail: (A ser adicionado na seção de contato)
 
-Link do Projeto: https://matfels.github.io/Portifolio/ 
+Link do Projeto: https://matfels.github.io/Portfolio/ 
